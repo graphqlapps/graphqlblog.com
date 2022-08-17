@@ -6,6 +6,8 @@ description: Learn how to connect the dots in a GraphQL based architecture by bu
 
 Learn GraphQL by building a blogging engine. Create resolvers, write schemas, write queries, design the database, test and also deploy. {% .lead %}
 
+{% video src="https://www.youtube.com/embed/BEfIcUzn67U" /%}
+
 ## Introduction
 
 This modern GraphQL based stack will give you all the tools you need for your next project. GraphQL is the glue that ties every part of the stack together, thanks to it's typed nature and productive tooling.
